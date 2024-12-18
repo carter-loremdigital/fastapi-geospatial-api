@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+geoalchemy2
+psycopg2-binary  # PostgreSQL driver (needed for GeoAlchemy2)
